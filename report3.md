@@ -11,3 +11,6 @@ Finding greatest and smallest and equal number between two different numbers.
 
 #Equal:
 
+![equal1](https://github.com/user-attachments/assets/ab066c6d-0dcc-486b-acfb-457c3f9cbbf9)
+
+![equal2](https://github.com/user-attachments/assets/5c2a8476-a9a2-4352-9815-000e22553524)
