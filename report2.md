@@ -5,3 +5,4 @@ Addition and subtraction operation of one digit number.
 
 
 #Subtraction
+![sub](https://github.com/user-attachments/assets/294cca2f-8201-4a5f-88ca-af16178eed65)
